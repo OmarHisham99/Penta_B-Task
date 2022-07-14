@@ -191,7 +191,3 @@ const Rover = class {
 }
 
 module.exports = Rover;
-
-// let rover = new Rover(0,0,"West");
-// let path = rover.safeRoute(5,10);  
-// console.log(rover.printPath(path)); 
